@@ -1,0 +1,15 @@
+body {
+    background-color: lightcyan;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: lightgray;
+    border-width: 5px;
+    width: 10%;
+}
+
+img {
+    height: 200px;
+}
