@@ -1,7 +1,10 @@
 /**************TAG SELECTORS****************/
 body {
-    background-color: white;
+    color: #F0F0F0;
     margin: 0;
+    font-family: 'Lato', sans-serif;
+    font-size: 200%;
+    background-color: #3E5641;
 }
 
 h1{
@@ -17,13 +20,15 @@ div{
 }
 
 .TopContainer{
-  background-color: #E4F9F5;
+  background-color: #A24936;
+  position: absolute;
+  left: 200px
 }
 
 .MiddleContainer{
-  background-color: #E4F1B5;
+  background-color: #282B28;
 }
 
 .LowerContainer{
-  background-color: #A4F9F5;
+  background-color: #83BCA9;
 }
